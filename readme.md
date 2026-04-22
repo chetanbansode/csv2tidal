@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/github/license/chetanbansode/csv2tidal?style=for-the-badge&color=97CA00" alt="License">
 </p>
 
-<p align="center"><strong>v0.1.0</strong></p>
+<p align="center"><strong>v0.1.0 - BETA</strong></p>
 
 <h1 align="center">csv2tidal - Advanced Library Transfer Tool</h1>
 
