@@ -14,8 +14,9 @@
 
 The goal of this project is simple: do not just find the same song title, find the correct release.
 
+---
 
-## Why csv2tidal when there are already tools available?
+# Why csv2tidal when there are already tools available?
 
 Most transfer tools can match the correct song but still attach the wrong album, compilation release, cover art, or edition. That is the exact problem `csv2tidal` is designed to reduce.
 
