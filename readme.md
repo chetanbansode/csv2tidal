@@ -46,7 +46,7 @@ So when a track exists on multiple TIDAL releases, `csv2tidal` tries to choose t
   <img src="assets/demo2.png" width="500" alt="Results table">
 </p>
 
-## Features
+## ✨ Features
 
 - Menu-driven interface
 - Import Exportify CSV files directly
@@ -59,7 +59,7 @@ So when a track exists on multiple TIDAL releases, `csv2tidal` tries to choose t
 - Quiet `Ctrl+C` handling
 - Press `Space` to cancel matching while a transfer is running
 
-## Requirements
+## 📄 Requirements
 
 Before using `csv2tidal`, you need:
 
@@ -123,7 +123,7 @@ Use this when album/version correctness matters more.
 > - pressing `Enter` selects `Playlist`
 > - the CSV filename is used as the default playlist name
 
-## Installation
+## 📦 Installation
 
 From PyPI:
 
