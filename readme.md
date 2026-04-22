@@ -22,11 +22,6 @@
 pip install csv2tidal
 ```
 
-For local development:
-
-```bash
-pip install -e .
-```
 
 ## Usage
 
