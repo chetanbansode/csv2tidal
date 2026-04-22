@@ -16,6 +16,7 @@
 <p align="center">The goal of this project is simple: do not just find the same song title, find the correct release.</p>
 
 ---
+---
 
 ## Why csv2tidal when other tools already exist?
 
