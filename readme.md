@@ -1,6 +1,7 @@
 <p align="center">
   <img src="assets/csv2tidal.png" alt="csv2tidal banner">
 </p>
+<p align="center"><strong>v0.1.0</strong></p>
 
 # csv2tidal
 
