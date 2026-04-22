@@ -38,8 +38,7 @@ Before using `csv2tidal`, you need:
 
 - Python 3.9 or newer
 - a TIDAL account
-- a playlist CSV exported in Exportify format
-- access to [Exportify](https://exportify.app/) to generate the CSV file
+- a playlist CSV exported from [Exportify](https://exportify.app/)
 
 ## Matching Logic
 
