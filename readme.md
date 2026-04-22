@@ -8,7 +8,7 @@
 </p>
 <p align="center"><strong>v0.1.0</strong></p>
 
-# csv2tidal - The Most Intelligent Library Integration Available
+# csv2tidal - Most Intelligent Library Integration Available
 
 `csv2tidal` is a powerfull desktop CLI app that transfers Exportify CSV playlists to TIDAL with smarter matching than generic playlist migration tools.
 
