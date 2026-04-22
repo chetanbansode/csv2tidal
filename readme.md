@@ -159,7 +159,7 @@ This tool is intended for personal and educational use only.
 This project is not affiliated with, endorsed by, or associated with Spotify, Exportify, or TIDAL.
 
 Users are responsible for complying with the terms of service of the platforms they use and all applicable laws.
-## Documentation
+## 📚 Documentation
 
 - [Usage Guide](docs/USAGE.md)
 - [FAQ](docs/FAQ.md)
