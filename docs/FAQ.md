@@ -23,4 +23,4 @@ Yes. You need a TIDAL account to log in and transfer songs.
 
 ## Does the app always create a JSON report?
 
-No. JSON report generation depends on the `Generate JSON report?` setting.
+No. JSON report generation depends on the settings.
