@@ -9,7 +9,7 @@
 
 <p align="center"><strong>v0.1.3 - BETA</strong></p>
 
-<h1 align="center">csv2tidal - Advanced Library Transfer Tool</h1>
+<h1 align="center">csv2tidal - Advanced Library Integration Tool</h1>
 
 <p><strong>csv2tidal</strong> is a desktop CLI application for transferring Exportify CSV playlists to TIDAL with smarter, release-aware matching.</p>
 
