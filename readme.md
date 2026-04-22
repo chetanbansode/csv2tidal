@@ -11,9 +11,9 @@
 
 <h1 align="center">csv2tidal - Advanced Library Transfer Tool</h1>
 
-<p align="center"><code>csv2tidal</code> is a powerfull desktop CLI app that transfers Exportify CSV playlists to TIDAL with smarter matching than generic playlist migration tools.</p>
+<p><code>csv2tidal</code> is a powerfull desktop CLI app that transfers Exportify CSV playlists to TIDAL with smarter matching than generic playlist migration tools.</p>
 
-<p align="center">The goal of this project is simple: do not just find the same song title, find the correct release.</p>
+<p>The goal of this project is simple: do not just find the same song title, find the correct release.</p>
 
 ---
 
