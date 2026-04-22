@@ -8,7 +8,7 @@
 </p>
 <p align="center"><strong>v0.1.0</strong></p>
 
-# csv2tidal - Advance Library Integration Tool
+# csv2tidal - Advanced Library Transfer Tool
 
 `csv2tidal` is a powerfull desktop CLI app that transfers Exportify CSV playlists to TIDAL with smarter matching than generic playlist migration tools.
 
@@ -16,7 +16,7 @@ The goal of this project is simple: do not just find the same song title, find t
 
 ---
 
-# Why csv2tidal when there are already tools available?
+# Why csv2tidal when other tools already exist?
 
 Most transfer tools can match the correct song but still attach the wrong album, compilation release, cover art, or edition. That is the exact problem `csv2tidal` is designed to reduce.
 
