@@ -17,7 +17,7 @@
 
 ---
 
-## Why csv2tidal when other tools already exist?
+## ❔ Why csv2tidal when other tools already exist?
 
 Most transfer tools can match the correct song but still attach the wrong album, compilation release, cover art, or edition. That is the exact problem `csv2tidal` is designed to reduce.
 
