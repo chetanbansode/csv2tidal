@@ -1,21 +1,23 @@
 <p align="center">
   <img src="assets/csv2tidal.png" alt="csv2tidal banner">
 </p>
+
 <p align="center">
-  <img src="https://img.shields.io/pypi/v/csv2tidal">
-  <img src="https://img.shields.io/github/license/chetanbansode/csv2tidal">
+  <img src="https://img.shields.io/pypi/v/csv2tidal?style=for-the-badge&logo=pypi&logoColor=white" alt="PyPI Version">
+  <img src="https://img.shields.io/github/license/chetanbansode/csv2tidal?style=for-the-badge&color=97CA00" alt="License">
 </p>
+
 <p align="center"><strong>v0.1.0</strong></p>
 
-# csv2tidal - Advanced Library Transfer Tool
+<h1 align="center">csv2tidal - Advanced Library Transfer Tool</h1>
 
-`csv2tidal` is a powerfull desktop CLI app that transfers Exportify CSV playlists to TIDAL with smarter matching than generic playlist migration tools.
+<p align="center"><code>csv2tidal</code> is a powerfull desktop CLI app that transfers Exportify CSV playlists to TIDAL with smarter matching than generic playlist migration tools.</p>
 
-The goal of this project is simple: do not just find the same song title, find the correct release.
+<p align="center">The goal of this project is simple: do not just find the same song title, find the correct release.</p>
 
 ---
 
-# 🤔 Why csv2tidal when other tools already exist?
+## Why csv2tidal when other tools already exist?
 
 Most transfer tools can match the correct song but still attach the wrong album, compilation release, cover art, or edition. That is the exact problem `csv2tidal` is designed to reduce.
 
@@ -30,19 +32,19 @@ This project gives stronger weight to:
 
 So when a track exists on multiple TIDAL releases, `csv2tidal` tries to choose the most accurate one instead of blindly accepting the first result.
 
-## 📸 Preview
+## Preview
 
 ### CLI Demo
 
 <p align="center">
-  <img src="assets/demo1.png" width="500">
+  <img src="assets/demo1.png" width="500" alt="CLI demo">
 </p>
 
 ### Results Table
-<p align="center">
-  <img src="assets/demo2.png" width="500">
-</p>
 
+<p align="center">
+  <img src="assets/demo2.png" width="500" alt="Results table">
+</p>
 
 ## Features
 
@@ -87,7 +89,8 @@ It also penalizes bad matches such as:
 - live versions
 - deluxe or repackage mismatches
 
-This helps keep metadata more accurate after transfer.
+> [!NOTE]
+> This helps keep metadata more accurate after transfer.
 
 ## Transfer Modes
 
@@ -115,10 +118,10 @@ Use this when album/version correctness matters more.
 4. Choose whether to send tracks to TIDAL favorites or a TIDAL playlist
 5. Let the app match and transfer the tracks
 
-By default in the transfer menu:
-
-- pressing `Enter` selects `Playlist`
-- the CSV filename is used as the default playlist name
+> [!TIP]
+> By default in the transfer menu:
+> - pressing `Enter` selects `Playlist`
+> - the CSV filename is used as the default playlist name
 
 ## Installation
 
@@ -147,6 +150,13 @@ csv2tidal
 - import support for more playlist export formats
 - better side-by-side result explanation for hard matches
 
+## Documentation
+
+- [Usage Guide](docs/USAGE.md)
+- [FAQ](docs/FAQ.md)
+- [Troubleshooting](docs/TROUBLESHOOTING.md)
+- [Tips & Tricks](docs/TIPS.md)
+
 ## Author
 
 Created by Chetan.
@@ -154,10 +164,3 @@ Created by Chetan.
 ## License
 
 This project is licensed under the MIT License.
-
-## 📚 Documentation
-
-- 📖 [Usage Guide](docs/USAGE.md)
-- ❓ [FAQ](docs/FAQ.md)
-- 🛠️ [Troubleshooting](docs/TROUBLESHOOTING.md)
-- 💡 [Tips & Tricks](docs/TIPS.md)
