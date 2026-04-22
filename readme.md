@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/csv2tidal.png" alt="csv2tidal banner">
+</p>
+
 # csv2tidal
 
 `csv2tidal` is a menu-driven desktop CLI app that transfers Exportify CSV playlists to TIDAL with smarter matching than generic playlist migration tools.
