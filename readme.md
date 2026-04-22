@@ -13,8 +13,6 @@
 
 <p><code>csv2tidal</code> is a powerfull desktop CLI app that transfers Exportify CSV playlists to TIDAL with smarter matching than generic playlist migration tools.</p>
 
-<p>The goal of this project is simple: do not just find the same song title, find the correct release.</p>
-
 ---
 
 ## Why csv2tidal when other tools already exist?
