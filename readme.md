@@ -1,6 +1,11 @@
 <p align="center">
   <img src="assets/csv2tidal.png" alt="csv2tidal banner">
 </p>
+<p align="center">
+  <img src="https://img.shields.io/pypi/v/csv2tidal">
+  <img src="https://img.shields.io/pypi/dm/csv2tidal">
+  <img src="https://img.shields.io/github/license/chetanbansode/csv2tidal">
+</p>
 <p align="center"><strong>v0.1.0</strong></p>
 
 # csv2tidal
