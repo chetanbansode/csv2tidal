@@ -150,6 +150,15 @@ csv2tidal
 - import support for more playlist export formats
 - better side-by-side result explanation for hard matches
 
+## Disclaimer
+
+This tool is intended for personal and educational use only.
+
+`csv2tidal` does not host, store, or distribute copyrighted audio. It only helps match tracks from a user-provided CSV playlist export to music already available through TIDAL.
+
+This project is not affiliated with, endorsed by, or associated with Spotify, Exportify, or TIDAL.
+
+Users are responsible for complying with the terms of service of the platforms they use and all applicable laws.
 ## Documentation
 
 - [Usage Guide](docs/USAGE.md)
@@ -164,4 +173,5 @@ Created by Chetan.
 ## License
 
 This project is licensed under the MIT License.
+
 
