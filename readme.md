@@ -139,3 +139,10 @@ Created by Chetan.
 ## License
 
 This project is licensed under the MIT License.
+
+## 📚 Documentation
+
+- 📖 [Usage Guide](docs/USAGE.md)
+- ❓ [FAQ](docs/FAQ.md)
+- 🛠️ [Troubleshooting](docs/TROUBLESHOOTING.md)
+- 💡 [Tips & Tricks](docs/TIPS.md)
