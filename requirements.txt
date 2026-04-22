@@ -1,3 +1,2 @@
 tidalapi
 rich
-mutagen
