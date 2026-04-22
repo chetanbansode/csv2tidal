@@ -125,8 +125,6 @@ Use this when album/version correctness matters more.
 
 ## 📦 Installation
 
-From PyPI:
-
 ```bash
 pip install csv2tidal
 ```
