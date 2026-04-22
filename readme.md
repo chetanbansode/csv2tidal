@@ -3,7 +3,7 @@
 </p>
 <p align="center">
   <img src="https://img.shields.io/pypi/v/csv2tidal">
-![PyPI - Downloads](https://img.shields.io/pypi/dm/csv2tidal?style=for-the-badge&color=%2332af64)
+[PyPI - Downloads](https://img.shields.io/pypi/dm/csv2tidal?style=for-the-badge&color=%2332af64)
   <img src="https://img.shields.io/github/license/chetanbansode/csv2tidal">
 </p>
 <p align="center"><strong>v0.1.0</strong></p>
