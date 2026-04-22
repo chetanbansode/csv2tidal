@@ -14,19 +14,6 @@
 
 The goal of this project is simple: do not just find the same song title, find the correct release.
 
-## 📸 Preview
-
-### CLI Demo
-
-<p align="center">
-  <img src="assets/demo1.png" width="500">
-</p>
-
-### Results Table
-<p align="center">
-  <img src="assets/demo2.png" width="500">
-</p>
-
 
 ## Why csv2tidal when there are already tools available?
 
@@ -42,6 +29,20 @@ This project gives stronger weight to:
 - version differences like acoustic, remix, live, deluxe, and compilation releases
 
 So when a track exists on multiple TIDAL releases, `csv2tidal` tries to choose the most accurate one instead of blindly accepting the first result.
+
+## 📸 Preview
+
+### CLI Demo
+
+<p align="center">
+  <img src="assets/demo1.png" width="500">
+</p>
+
+### Results Table
+<p align="center">
+  <img src="assets/demo2.png" width="500">
+</p>
+
 
 ## Features
 
