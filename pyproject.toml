@@ -1,0 +1,37 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "csv2tidal"
+version = "0.1.0"
+description = "Transfer Exportify CSV playlists to TIDAL with fast and accurate matching modes."
+readme = "README.md"
+requires-python = ">=3.9"
+authors = [
+    { name = "Chetan" },
+]
+license = { text = "MIT" }
+keywords = ["tidal", "spotify", "exportify", "csv", "playlist", "transfer"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3 :: Only",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Environment :: Console",
+    "Topic :: Multimedia :: Sound/Audio",
+]
+dependencies = [
+    "rich",
+    "tidalapi",
+]
+
+[project.urls]
+Homepage = "https://pypi.org/project/csv2tidal/"
+
+[project.scripts]
+csv2tidal = "app:main"
+tidal-transfer = "app:main"
+
+[tool.setuptools]
+py-modules = ["app"]
