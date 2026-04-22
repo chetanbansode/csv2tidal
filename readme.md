@@ -150,7 +150,7 @@ csv2tidal
 - import support for more playlist export formats
 - better side-by-side result explanation for hard matches
 
-## Disclaimer
+## ⚠️ Disclaimer
 
 This tool is intended for personal and educational use only.
 
