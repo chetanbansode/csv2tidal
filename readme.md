@@ -110,21 +110,8 @@ Run it with:
 csv2tidal
 ```
 
-## Project Structure
-
-```text
-tidal-transfer/
-+- app.py
-+- pyproject.toml
-+- README.md
-+- LICENSE
-+- github-readme/
-   +- README.md
-```
-
 ## Notes
 
-- Exportify CSV from [exportify.app](https://exportify.app/) is the primary supported input format.
 - TIDAL login uses OAuth in your browser.
 - Session and settings are stored locally for reuse.
 - JSON report generation can be turned on or off in settings.
