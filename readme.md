@@ -5,6 +5,7 @@
 <p align="center">
   <img src="https://img.shields.io/pypi/v/csv2tidal?style=for-the-badge&logo=pypi&logoColor=white" alt="PyPI Version">
   <img src="https://img.shields.io/github/license/chetanbansode/csv2tidal?style=for-the-badge&color=97CA00" alt="License">
+  <img src="https://img.shields.io/pypi/dm/t2json">
 </p>
 
 <p align="center"><strong>v0.1.3 - BETA</strong></p>
